@@ -4,7 +4,7 @@
     font-family:"Inter","EB Garamond";
 }
 .container{
-    max-width: 1240px;
+    max-width:1800px;
     margin:20px;
 }
 header{
@@ -42,4 +42,46 @@ header{
     font-weight: 400;
     font-size:12px;
     color:rgba(56, 50, 48, 1);
+}
+
+#intro{
+    margin-top:20px;
+     width: 1640px;
+}
+.introtitle{
+    margin-top:-100px;
+    margin-left:-100px;
+    height:236px;
+    width:1650px;
+    justify-content: center;
+    text-align: center;
+    background-color: rgba(249, 247, 244, 1);
+    h6{
+    padding-right:75px;
+    padding-top:20px;
+   font-size: 48px;
+   font-weight: 400;
+   font-family: "EB Garamond";
+   color:rgba(0, 0, 0, 1);
+    }
+}
+
+.introimg{
+    width: 1550px;
+    
+    margin-left:-50px;
+}
+
+.introtexts{
+ 
+    text-align: center;
+    h5{
+       margin-left:60px;
+      
+        font-family: "EB Garamond";
+        font-weight: 400;
+        font-size: 34px;
+        color:rgba(0, 0, 0, 1);
+    }
+    
 }
