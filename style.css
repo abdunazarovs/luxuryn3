@@ -137,3 +137,40 @@ background-color:rgba(249, 247, 244, 1);
         color:rgba(85, 85, 85, 1);
     }
 }
+
+.arrivals{
+    margin-top:100px;
+    margin-left:80px;
+    display: flex;
+}
+
+.artexts{
+    margin-top:40px;
+    h3{
+        
+            font-family: "EB Garamond";
+            font-weight: 400;
+            font-size:36px;
+            color:rgba(0, 0, 0, 1);
+        
+    }
+    h5{
+        font-family:"Inter";
+        font-size: 15px;
+        font-weight: 400;
+        color:rgba(0, 0, 0, 1);
+
+    }
+}
+
+.shop{
+    border:1px solid rgba(0, 0, 0, 1);
+    width: 153px;
+    height: 42px;
+    
+    background-color:rgba(254, 253, 252, 1);
+    font-family: "Inter";
+    font-weight: 400;
+    font-size: 13px;
+    color:rgba(0, 0, 0, 1);
+}
