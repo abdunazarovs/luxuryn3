@@ -85,3 +85,55 @@ header{
     }
     
 }
+
+#logos{
+  
+    width:1440px;
+}
+.logotips{
+height:20px;
+padding:20px;
+width: 1440px;
+margin-top:80px;
+justify-content: center;
+display: flex;
+gap:50px;
+background-color:rgba(249, 247, 244, 1);
+}
+
+.upgrade{
+    margin-top: 100px;
+    display: flex;
+    margin-left:90px;
+    gap:50px;
+   
+}
+.first{
+    h5{
+        font-family: "EB Garamond";
+        font-weight: 400;
+        font-size: 25px;
+        color:rgba(0, 0, 0, 1);
+    }
+    h4{
+        font-family: "Inter";
+        font-weight: 400;
+        font-size: 14px;
+        color:rgba(85, 85, 85, 1);
+    }
+}
+
+.second{
+    h5{
+        font-family: "EB Garamond";
+        font-weight: 400;
+        font-size: 25px;
+        color:rgba(0, 0, 0, 1);
+    }
+    h4{
+        font-family: "Inter";
+        font-weight: 400;
+        font-size: 14px;
+        color:rgba(85, 85, 85, 1);
+    }
+}
